@@ -1,0 +1,5 @@
+(node(58.095, 26.164, 58.476, 26.933);<;);out meta;
+
+This rectangle approximately corresponds to the area of Tartu County, Estonia (http://en.wikipedia.org/wiki/Tartu_County).
+
+I chose this area because Tartu is my hometown. 
